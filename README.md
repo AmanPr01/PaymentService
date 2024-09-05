@@ -61,3 +61,4 @@ stripe.key.id=${STRIPE_KEY_ID}
 - **[Product Service](https://github.com/AmanPr01/E-Commerce)**: Manages product information and operations.
 - **[User Service](https://github.com/AmanPr01/UserService)**: Manages user authentication and authorization.
 - **[Email Service](https://github.com/AmanPr01/EmailService)**: Handles asynchronous email notifications.
+- **[Service Discovery](https://github.com/AmanPr01/ServiceDiscovery)**: Central registry for service registration and discovery, enabling dynamic interaction between microservices.
